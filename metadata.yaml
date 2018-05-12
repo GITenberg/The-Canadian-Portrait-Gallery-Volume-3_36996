@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '44602'
     url: http://www.gutenberg.org/2009/agents/44602
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36996#The-Canadian-Portrait-Gallery-Volume-3
 gutenberg_issued: '2011-08-07'
 gutenberg_type: Text
 identifiers:
